@@ -1,0 +1,5 @@
+name:10
+age:3
+city:15
+state:2
+country:10

@@ -1,0 +1,5 @@
+John      032New York      NYUSA       
+Jane      028Los Angeles   CALUSA       
+Doe       045Chicago       ILUSA       
+Alice     025San Francisco CALUSA       
+Bob       038Seattle       WAUSA
